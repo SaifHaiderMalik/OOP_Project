@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Binary Files
+*.dat
+*.bin
