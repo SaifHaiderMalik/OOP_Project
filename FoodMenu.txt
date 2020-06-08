@@ -1,0 +1,78 @@
+1	ADMINISTRATOR
+10	Go Back
+11	ADMINISTRATOR > Show Details
+110	Go Back
+111	ADMINISTRATOR > Show Details > Summary
+112	ADMINISTRATOR > Show Details > Show Restaurants
+1120	Go Back
+1121	ADMINISTRATOR > Show Details > Show Restaurants > Show All
+1122	ADMINISTRATOR > Show Details > Show Restaurants > By Cuisine
+11220	Go Back
+1122#	ADMINISTRATOR > Show Details > Show Restaurants > By Cuisine (All Cuisines)
+1123	ADMINISTRATOR > Show Details > Show Restaurants > By Location
+11230	Go Back
+1123#	ADMINISTRATOR > Show Details > Show Restaurants > By Location (Cities & Areas)
+113	ADMINISTRATOR > Show Details > Show Customers
+1130	Go Back
+1131	ADMINISTRATOR > Show Details > Show Customers > Show All
+1132	ADMINISTRATOR > Show Details > Show Customers > By Location
+11320	Go Back
+1132	ADMINISTRATOR > Show Details > Show Customers > By Location (Cities & Areas)
+12	ADMINISTRATOR > Restaurant Management
+120	Go Back
+121	ADMINISTRATOR > Restaurant Management > Add New
+122	ADMINISTRATOR > Restaurant Management > Close
+123	ADMINISTRATOR > Restaurant Management > Re-Open
+124	ADMINISTRATOR > Restaurant Management > Find
+125	ADMINISTRATOR > Restaurant Management > Receive Revenue
+1240	Go Back
+124#	ADMINISTRATOR > Restaurant Management > Find > (Options)
+13	ADMINISTRATOR > Customer Management
+130	Go Back
+131	ADMINISTRATOR > Customer Management > Add New
+132	ADMINISTRATOR > Customer Management > Block
+133	ADMINISTRATOR > Customer Management > Unblock
+134	ADMINISTRATOR > Customer Management > Find
+1340	Go Back
+134#	ADMINISTRATOR > Customer Management > Find (Options)
+14	ADMINISTRATOR > Vouchers Management
+140	Go Back
+141	ADMINISTRATOR > Vouchers Management > Add New
+142	ADMINISTRATOR > Vouchers Management > Block
+143	ADMINISTRATOR > Vouchers Management > Send
+144	ADMINISTRATOR > Vouchers Management > Show
+144#	ADMINISTRATOR > Vouchers Management > Show (Options)
+
+2	RESTAURANT MANAGER
+20	Go Back
+21	RESTAURANT MANAGER > Show Details
+22	RESTAURANT MANAGER > Change Password
+23	RESTAURANT MANAGER > Open/Close Restaurant
+24	RESTAURANT MANAGER > Set Opening Days/Time
+25	RESTAURANT MANAGER > Modify Details
+26	RESTAURANT MANAGER > Menu Management
+260	Go Back
+261	RESTAURANT MANAGER > Menu Management > Add Item
+262	RESTAURANT MANAGER > Menu Management > Modify Item Details
+263	RESTAURANT MANAGER > Menu Management > Delete Item
+264	RESTAURANT MANAGER > Menu Management > Show Details
+2640	Go Back
+2641	RESTAURANT MANAGER > Menu Management > Show Details > Show All
+2642	RESTAURANT MANAGER > Menu Management > Show Details > Show By Cuisine
+2643	RESTAURANT MANAGER > Menu Management > Show Details > Show By Code
+27	RESTAURANT MANAGER > Order Management
+270	Go Back
+271	RESTAURANT MANAGER > Order Management > Show Details
+271#	RESTAURANT MANAGER > Order Management > Show Details (Options)
+
+3	CUSTOMER
+30	Go Back
+31	CUSTOMER > New User
+32	CUSTOMER > Sign In
+320	Go Back
+321	CUSTOMER > Sign In > Show Details
+322	CUSTOMER > Sign In > Modify Details
+323	CUSTOMER > Sign In > Order Food
+3230	Go Back
+3231	CUSTOMER > Sign In > Order Food > Show Restaurants
+32310	Go Back
