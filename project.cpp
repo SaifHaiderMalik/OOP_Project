@@ -52,8 +52,6 @@ class CUSTOMER;
 class RESTAURANT;
 class ADMINISTRATOR;
 class ORDER;
-class TAXDEPARTMENT;
-class TIMENOW;
 
 //Cuisine vector which contains food menu 
 vector<string> cuisineTitle{"Pizza","Burgers","Sandwiches","Fast Food","Bar.B.Q","Pakistani","Chinese","International","Seafood","Desserts","Cakes & Bakery","Beverage"};
@@ -2371,10 +2369,10 @@ class ADMINISTRATOR{
     vector<string> vouchers;
     vector<RESTAURANT> restaurants;
     vector<CUSTOMER> customers;
-    map <string, string> managerLink;
+    map <string, string> managerLink; // (Manager ID >> Restaurant Code)
     map <string, string> custEmailLink; //(Email >> Code)
     map <string, string> custContactLink; //(Contact >> Email)
-    map <string, double> voucherValueLink;
+    map <string, double> voucherValueLink; //(Voucher Code >> Voucher Value)
 
 public:
     ADMINISTRATOR(string _userName, string _passWord) : userName(_userName), passWord(_passWord){
